@@ -1,33 +1,33 @@
 ---
 name: pr-release-notes
-description: <!-- TODO: Write a brief description so Copilot knows when to discover this skill -->
+description: "TODO: Describe when Copilot should discover this skill."
 ---
 
 # PR Release Notes Skill
 
 ## Purpose
-<!-- TODO: Define the core intent of this skill in 1-2 sentences (e.g., transforming git commit logs into user-facing release notes) -->
+_TODO: Define the core intent in 1-2 sentences, such as transforming git commit logs into user-facing release notes._
 
 ## Scope And Boundaries
-* **In Scope:** <!-- TODO: List allowed actions (e.g., parsing conventional commits, categorizing features vs. bug fixes) -->
-* **Out of Scope:** <!-- TODO: List explicit boundaries (e.g., creating git tags, modifying changelog files automatically) -->
+* **In Scope:** _TODO: List allowed actions, such as parsing conventional commits and categorizing features versus bug fixes._
+* **Out of Scope:** _TODO: List explicit boundaries, such as creating git tags or modifying changelog files automatically._
 
 ## Required Inputs
-* <!-- TODO: List input #1 (e.g., Git commit history or PR merge log) -->
-* <!-- TODO: List input #2 (e.g., Target release version/milestone number) -->
+* _TODO: List input #1, such as Git commit history or a PR merge log._
+* _TODO: List input #2, such as a target release version or milestone number._
 
 ## Workflow
-1. **Filter Commits:** <!-- TODO: Define logic to parse commit messages and strip out internal/refactor commits -->
-2. **Group Changes:** <!-- TODO: Define logic to categorize items (e.g., Features, Fixes, Breaking Changes) -->
-3. **Draft Release Notes:** <!-- TODO: Define guidelines for summarizing tech jargon into clear user-facing language -->
+1. **Filter Commits:** _TODO: Define logic to parse commit messages and remove internal or refactor commits._
+2. **Group Changes:** _TODO: Define logic to categorize Features, Fixes, and Breaking Changes._
+3. **Draft Release Notes:** _TODO: Define guidelines for translating technical jargon into clear user-facing language._
 
 ## Output
-* <!-- TODO: Specify expected release notes structure and required bullet point formats -->
+* _TODO: Specify the expected release-notes structure and required bullet-point formats._
 
 ## Examples
 
 ### Input
-<!-- TODO: Add sample git log or commit messages -->
+_TODO: Add sample Git log or commit messages._
 
 ### Output
-<!-- TODO: Add the expected formatted Release Notes -->
+_TODO: Add the expected formatted release notes._

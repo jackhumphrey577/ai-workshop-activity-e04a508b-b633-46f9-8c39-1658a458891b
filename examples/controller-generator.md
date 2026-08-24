@@ -1,34 +1,34 @@
 ---
 name: controller-generator
-description: <!-- TODO: Write a brief description so Copilot knows when to discover this skill -->
+description: "TODO: Describe when Copilot should discover this skill."
 ---
 
 # Controller Generator Skill
 
 ## Purpose
-<!-- TODO: Define the core intent of this skill in 1-2 sentences -->
+_TODO: Define the core intent of this skill in 1-2 sentences._
 
 ## Scope And Boundaries
-* **In Scope:** <!-- TODO: List what the skill IS allowed to do (e.g., file types created, endpoints generated) -->
-* **Out of Scope:** <!-- TODO: List explicit boundaries (e.g., modifying DB contexts, touching service layers) -->
+* **In Scope:** _TODO: List allowed work, such as file types created and endpoints generated._
+* **Out of Scope:** _TODO: List explicit boundaries, such as modifying database contexts or touching service layers._
 
 ## Required Inputs
-* <!-- TODO: List input #1 needed to generate a controller (e.g., Domain Model Name) -->
-* <!-- TODO: List input #2 (e.g., Base Route) -->
-* <!-- TODO: List input #3 (e.g., Service Interface) -->
+* _TODO: List input #1, such as the domain model name._
+* _TODO: List input #2, such as the base route._
+* _TODO: List input #3, such as the service interface._
 
 ## Workflow
-1. **Analyze Requirements:** <!-- TODO: Step 1 logic -->
-2. **Apply Standards:** <!-- TODO: Step 2 logic (e.g., referencing project rules or templates) -->
-3. **Scaffold & Implement:** <!-- TODO: Step 3 logic for writing the C# endpoints -->
+1. **Analyze Requirements:** _TODO: Define the first analysis step._
+2. **Apply Standards:** _TODO: Define how project rules or templates should be applied._
+3. **Scaffold & Implement:** _TODO: Define how the C# endpoints should be written._
 
 ## Output
-* <!-- TODO: Specify expected output file format, location, and key naming rules -->
+* _TODO: Specify the expected output file format, location, and naming rules._
 
 ## Examples
 
 ### Input
-<!-- TODO: Add a sample user request -->
+_TODO: Add a sample user request._
 
 ### Output
 ```csharp
