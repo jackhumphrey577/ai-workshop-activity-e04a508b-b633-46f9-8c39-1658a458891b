@@ -59,6 +59,10 @@ h1, h2, h3, p { overflow-wrap: anywhere; }
 .template-panel { min-width: 0; padding: 28px 0 36px; }
 .template-heading { padding-bottom: 24px; border-bottom: 1px solid var(--line); }
 .template-heading h1 { margin: 0; font-size: clamp(2.25rem, 9vw, 4.6rem); line-height: .92; letter-spacing: 0; }
+.brief-panel { padding: 25px 0; border-bottom: 1px solid var(--line); }
+.brief-panel h2 { margin: 0 0 8px; font-size: 1.42rem; line-height: 1.05; }
+.brief-panel h3 { margin: 20px 0 6px; color: #4b535a; font-family: var(--mono); font-size: .78rem; font-weight: 500; }
+.brief-panel p { margin: 0; font-size: 1rem; }
 .tips-panel { padding: 25px 0 30px; border-top: 2px solid var(--ink); }
 .tip-item { padding: 14px 0; border-bottom: 1px solid var(--line); }
 .tip-item p { margin: 0; font-size: .94rem; }
